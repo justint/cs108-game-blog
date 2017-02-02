@@ -159,6 +159,12 @@ blockquote {
     }
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 // Adding 'Contents' headline to the TOC
 #markdown-toc::before {
     content: "Contents";
