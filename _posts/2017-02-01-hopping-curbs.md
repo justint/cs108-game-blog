@@ -29,7 +29,7 @@ On to the next house. This one's grey, with a black roof and red windows. A grey
 
 *\*crash\**
 
-Whoops, hit another window. But hey, I got points for breaking that one! I soon figure out that the game rewards me for vandalizing the non-subscribing houses, like any respectable newspaper business should. As I pass by another house, I shoot out another newspaper and end up nailing the guy breakdancing out front. The game awarded me points for that. Interesting.
+Whoops, hit another window. But hey, I get points for breaking that one! I soon figure out that the game rewards me for vandalizing the non-subscribing houses, like any respectable newspaper business should. As I pass by another house, I shoot out another newspaper and end up nailing the guy breakdancing out front. The game awards me points for that. Interesting.
 
 ![Spamming ftw](/images/paperboy-spam.png){: .center-image }
 
@@ -41,7 +41,7 @@ Now I'm flying down the street, blasting rolls of *The Daily Sun* at pedestrians
 
 Ouch. The driver says to me in a garbled vocoder voice, "Not again...". Apparently head on collisions with bicyclists is a common occurrence around here. I see how I got my paperboy job so quickly.
 
-I pull my self and my compound fractured femur together and get back on my bike. No more fooling around. I've got a route to finish.
+I pull myself and my compound fractured femur together and get back on my bike. No more fooling around. I've got a route to finish.
 
 I knock out a few more windows, land more newspaper issues on doorsteps, and ride my way to the end. My job is complete. Or is it?
 
