@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Video Game Lab"
+subtitle: "Discussing a few indie games I recently played"
+date: 2017-03-06 22:00:00
+published: true
+---
+
+![Wizard Wizard](/images/wizard-wizard.jpg){: .center-image }
+
+Just this past week I got to play a few indie games off the internet solo, namely *Queers in Love at the End of the World*, *You Have To Burn The Rope*, and the aptly-named *Don't Shit Your Pants*. I also played the classic *QWOP* game with my friend David, and took a peek at a rising indie game *Wizard Wizard*.
+
+[*Queers in Love at the End of the World*](http://auntiepixelante.com/endoftheworld/) is a web interactive fiction game using hyperlinks to advance through the story. It comes with a unique twist - as the player, you're only given ten seconds to navigate through one path of the story via the hyperlinks. I felt this timing mechanic was neat in concept, but annoying in the fact that I barely had time to read what the narrative and option text said. I ended up just blasting through hyperlinks to try to find any sort of unique "end game", to no avail. I've played another interactive fiction very similar in format, [my father's long, long legs](http://correlatedcontents.com/misc/Father.html), a very creepy and (in my opinion) a more intriguing game than QiLatEotW (I'd recommend you stop reading my blog post and [play it right now](http://correlatedcontents.com/misc/Father.html)).
+
+[*You Have To Burn The Rope*](http://www.newgrounds.com/portal/view/432872) is a dead simple platformer with a very straightforward game goal: you have to burn the rope to defeat the boss. Is it a satire on the hand-holding trope often seen in modern AAA video games? Or is it a silly, short, and simple little game? Either way, I was slightly amused for the brief 30 seconds it took to play the game to its end.
+
+[*Don't Shit Your Pants*](http://www.newgrounds.com/portal/view/540127) is a text-based adventure game with one goal: don't shit your pants. The game doesn't take itself too seriously, and surprisingly packs a lot of entertainment for being so short. I laughed, I cried, I definitely shat my pants once or twice. I'd love to see a more fleshed out and longer version, maybe where you have to run to a neighbor's house to shit or include some crazy metagame like target practice with your ass and the toilet.
+
+Of the three games, I noticed a number of connections between *You Have To Burn The Rope* and *Don't Shit Your Pants*: the stories and gameplay of both are seriously simple, and both delivered their humor in deadpan. They also proved a point that games don't need extensive depth to provide a fun experience.
+
+On the topic of observing versus playing a game, my friend David and I were swapping back and forth with playing [QWOP](https://www.foddy.net/Athletics.html) during class lab time and I came to a few conclusions about the topic. While watching David play, I had forgotten how seriously hard the game was. When you're not the player and you're only watching the game, it's easy to fall into "couch pilot mode" and direct them how to play, comment on their slow progress, or think in the back of your head, "hah, I could do way better!" Only until I tried playing myself did I remember how frigging hard it was to get the guy moving. It takes a lot of concentration to really have QWOP guy moving semi-naturally, and even then in with the game physics factored in, it's near impossible to have him actually walk or run. Certainly QWOP isn't a game you can just step into and start succeeding; you literally have to build muscle memory to get it right.
+
+Finally, some talk on [Wizard Wizard](http://www.indiedb.com/games/wizardwizard), an indie platformer game. After just playing a few minutes I noticed the developer pulled a lot of inspiration from *Super Meat Boy*, the super-challenging platformer video game with the same insta-respawn mechanic. *Wizard Wizard* included the double jump, spinning and/or moving saws, and instant respawns, all mechanics from *Super Meat Boy*. Regardless, I was very impressed with the visual quality of the game, it being developed on the Game Maker engine. The interface and game assets have a pixel art aesthetic, and the designs of the player/NPCs are based in a fantasy/wizard-esque world, I assume. The *Wizard Wizard* "How It Was Made" documentation was a great addition to the game's content, arguably more interesting than the game itself. It dives into the design of the game's mechanics, level designs, art, sound, and more in a well detailed writeup worthy to be shared to any starting game developer as a guide on how to make a good game.
